@@ -1,5 +1,5 @@
 #import numpy as np
-# arr2 = np.array([[1, 2, 3, 4], [1, 2, 3, 4]])
+# arr2 = np.array([[1, 2, 3, 4], [1, 2, 3, 4]]) # equal size value is created
 # print(arr2)
 # print(type(arr2)) # numpy.ndarray
 # print(arr2.ndim) # 2

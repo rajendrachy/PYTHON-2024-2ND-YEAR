@@ -3,7 +3,7 @@
 # print(x)
 # print(type(x))  # checking the type
 
-# y = [1,2,3,4]
+# y = [1,2,3,4] # list
 # print(y)
 # print(type(y))  # checking the type
 
