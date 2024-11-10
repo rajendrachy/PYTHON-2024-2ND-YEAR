@@ -1,14 +1,14 @@
-# import numpy as np
-# var21 = np.array([[1, 2, 3, 4], [1, 2, 3, 4]])
-# var22 = np.array([[1, 2, 3, 4], [1, 2, 3, 4]])
-# print(var21)
-# print()
+import numpy as np
+var21 = np.array([[1, 2, 3, 4], [1, 2, 3, 4]])
+var22 = np.array([[1, 2, 3, 4], [1, 2, 3, 4]])
+print(var21)
+print()
 
-# print(var22)
-# print()
+print(var22)
+print()
 
-# varadd = var21 + var22
-# print(varadd)
+varadd = var21 + var22
+print(varadd)
 
 
 

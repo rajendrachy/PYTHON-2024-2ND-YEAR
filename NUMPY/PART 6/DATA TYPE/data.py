@@ -17,3 +17,4 @@ import numpy as np
 var = np.array(["a", "b", "c", "d"])
 print("Data type: ", var.dtype) # dtype us user to print a dtat type 
 
+

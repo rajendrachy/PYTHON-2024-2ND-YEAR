@@ -10,3 +10,4 @@ import numpy as np
 arr_dig = np.eye(3, 5) # create 3 * 3 array
                        # 3 row and 5 columns
 print(arr_dig)
+

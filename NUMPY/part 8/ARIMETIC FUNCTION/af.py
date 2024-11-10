@@ -11,4 +11,4 @@
 
 import numpy as np 
 var1 = np.array([[2, 1, 3], [9, 5, 6]])
-print(np.min(var1, axis = 1))
+print(np.min(var1, axis = 1)) # We have two axis => axis 0 and axis 1 ==>> axis 0 works on the column and axis 1 works on the rows
